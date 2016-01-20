@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="IntegerOverflow.aspx.cs" Inherits="Mopas.Tests.IntegerOverflow" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ResourceInjection.aspx.cs" Inherits="Mopas.Tests.ResourceInjection" %>
 
 <!DOCTYPE html>
 

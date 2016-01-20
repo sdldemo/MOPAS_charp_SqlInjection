@@ -11,7 +11,7 @@ namespace Mopas.Tests
 {
 
 
-    public partial class IntegerOverflow
+    public partial class ResourceInjection
     {
 
         /// <summary>
